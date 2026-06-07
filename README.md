@@ -2,7 +2,7 @@
 Currently a Technical Service Management student at Tarlac State University<br>As of now, I'm learning/pursuing WebApp and building projects that includes ML.<br><br>Hi! I'm Angel, a passionate developer creating innovative and accessible tech experiences.<br><br>In my free time, I love learning new technologies, improving my coding skills, and exploring different creative projects.
 
 
-## ocials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angel.bitangcol.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nokiro.kai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-bitangcol-2a5786404) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nokiorkai) 
 
 # Tech Stack:
