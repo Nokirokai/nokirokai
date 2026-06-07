@@ -1,122 +1,147 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f0f0f8,100:e8e8f5&height=200&section=header&text=Angel%20Bitangcol&fontSize=52&fontColor=1a1a2e&fontAlignY=55&desc=nokirokai%20·%20Developer%20·%20Creator&descSize=16&descAlignY=75&descFontColor=6366f1&animation=fadeIn" width="100%"/>
+</div>
 
-<!-- Profile Views Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=kaelgalope&color=blueviolet&style=flat-square&label=Profile+Views)
+<br>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kael+%F0%9F%91%8B;Full-Stack+Web+Developer;BSIT-TSM+%40+Tarlac+State+University;Building+cool+stuff+one+commit+at+a+time)](https://git.io/typing-svg)
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+![Profile Views](https://komarev.com/ghpvc/?username=nokirokai&color=6366f1&style=flat-square&label=profile+views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/nokirokai?style=flat-square&color=6366f1&label=followers)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/nokirokai?style=flat-square&color=6366f1&label=total+stars)
 
 </div>
 
+<br>
+
 ---
 
-## 👨‍💻 About Me
+### elevating visual communication.
 
-```ts
-const kael = {
-  role:       "Full-Stack Developer & BSIT-TSM Student",
-  school:     "Tarlac State University 🎓",
-  location:   "Philippines 🇵🇭",
-  interests:  ["Web Dev", "IoT", "UI/UX", "Home Automation"],
-  currentFocus: "LGU DocuVault — Web-Based EDMS w/ RBAC",
-  funFact:    "I built a Peltier phone cooler just because I could 🥶",
-};
+I am a multi-disciplinary creative professional focused on building meaningful connections between brands and people.
+
+Currently a **Technical Service Management** student at **Tarlac State University** — pursuing WebApp development and exploring Machine Learning. I love creating innovative, accessible tech experiences and building projects that matter.
+
+<br>
+
+---
+
+### core capabilities
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&theme=light&perline=5" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=supabase,deno,nodejs,postgres,python&theme=light&perline=5" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode&theme=light&perline=5" />
+
+</div>
+
+<br>
+
+---
+
+### selected work
+
+| project | description |
+|---------|-------------|
+| 👗 **[AMB Clothing Website](https://github.com/nokirokai)** | eCommerce platform built for today's fashion-forward audience — glassmorphism UI |
+| 🚌 **TaRide Commuting Site** | Transport platform built to give users a fast, simple, and reliable commute experience |
+| 📸 **AMBpix PhotoBooth** | Creative cloud platform focused on visual content, photography, and media |
+| 🏥 **MediFlow Baguio Pharmacy** | Online pharmacy management system that facilitates Baguio's chronic illness patients |
+| 🪑 **Araneta Coliseum Seat System** | Seat management and real-time ticket system that streamlines events |
+| 🅿️ **SM TarPark** | Smart parking management system designed to improve vehicle monitoring |
+
+<br>
+
+---
+
+### professional journey
+
+```
+2024 ──── Developer · MediFlow Pharmacy
+          Developed an online pharmacy management system for patients,
+          built the backend, database, and e-prescription features.
+
+2024 ──── Developer · AMB Clothing Website
+          eCommerce platform with a strong community identity,
+          glassmorphism design, and optimized UX.
+
+2024 ──── Developer · Araneta Coliseum Seats
+          Seat management and real-time ticket system
+          that streamlines events at scale.
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<br>
 
 ---
 
-## 📊 GitHub Stats
+### github stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaelgalope&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaelgalope&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=nokirokai&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=fafafa&title_color=6366f1&icon_color=6366f1&text_color=1a1a2e" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokirokai&layout=compact&theme=default&hide_border=true&bg_color=fafafa&title_color=6366f1&text_color=1a1a2e&langs_count=6" height="160"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=nokirokai&theme=default&hide_border=true&background=fafafa&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=1a1a2e&dates=888" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nokirokai&theme=minimal&bg_color=fafafa&color=6366f1&line=6366f1&point=1a1a2e&hide_border=true" width="100%"/>
 
 </div>
 
+<br>
+
+---
+
+### contribute
+
+```bash
+# ready to build something together?
+
+git clone https://github.com/nokirokai/<repo>
+git checkout -b feat/your-idea
+git commit -m "feat: describe what you built"
+git push origin feat/your-idea
+
+# → open a pull request
+```
+
+> follow [conventional commits](https://www.conventionalcommits.org) · keep PRs focused · be kind
+
+<br>
+
+---
+
+### initiate a dialogue
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kaelgalope&theme=tokyonight&hide_border=true)
+*Ready to discuss your next breakthrough project?*
+
+<br>
+
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:your-email@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/yourprofile)
+&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/nokirokai)
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🏛️ **LGU DocuVault** | Web-Based Electronic Document Management System with 6-role RBAC for LGU Victoria | React, TypeScript, Hono, Deno, Supabase |
-| 🛒 **Talipapa POS** | Point-of-Sale system with Filipino wet-market theme | React, TypeScript, Vite, Supabase, Zustand |
-| 👗 **AMB Clothing** | eCommerce single-page app with glassmorphism UI | Vanilla JS, CSS |
-| 📸 **Photobooth Web App** | Life4Cuts-style app with QR code generation | JS, Supabase Storage |
-| 🚗 **Parking Monitor IoT** | Real-time parking space monitoring system | Arduino Mega, HC-SR04, ESP8266, Node.js |
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. **Fork** the repo
-2. **Create** your feature branch: `git checkout -b feat/amazing-feature`
-3. **Commit** your changes: `git commit -m 'feat: add amazing feature'`
-4. **Push** to the branch: `git push origin feat/amazing-feature`
-5. **Open** a Pull Request
-
-> Please follow [Conventional Commits](https://www.conventionalcommits.org/) and make sure your code is clean before submitting.
-
----
-
-## 📬 Connect with Me
+<br>
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-0057A8?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.onlinejobs.ph/jobseekers/info/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaelgalope)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-*"Code is like humor. When you have to explain it, it's bad."*
-
-⭐️ From [Kael](https://github.com/kaelgalope) — feel free to star repos you find useful!
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8e8f5,100:f0f0f8&height=80&section=footer&reversal=true" width="100%"/>
 </div>
