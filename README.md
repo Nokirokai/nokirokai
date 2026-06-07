@@ -1,165 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=180&section=header&animation=fadeIn" width="100%"/>
-</div>
+# 💫 About Me:
+Currently a Technical Service Management student at Tarlac State University<br>As of now, I'm learning/pursuing WebApp and building projects that includes ML.<br><br>Hi! I'm Angel, a passionate developer creating innovative and accessible tech experiences.<br><br>In my free time, I love learning new technologies, improving my coding skills, and exploring different creative projects.
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+nokirokai+👋;Full-Stack+Web+Developer+💻;TSM+Student+%40+Tarlac+State+University+🎓;Building+things+that+matter+🚀;Always+learning%2C+always+creating+✨)](https://git.io/typing-svg)
+## Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angel.bitangcol.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nokiro.kai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-bitangcol-2a5786404) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nokiorkai) 
 
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nokirokai&color=6366f1&style=flat-square&label=profile+views)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/nokirokai?style=flat-square&color=6366f1&label=followers)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/nokirokai?style=flat-square&color=6366f1&label=total+stars)
-
-</div>
-
-<br>
+# Tech Stack:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nokirokai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nokirokai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nokirokai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=nokirokai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### about me
 
-```ts
-const nokirokai = {
-  role:       ["Full-Stack Developer", "UI/UX Enthusiast", "Creative Technologist"],
-  school:     "Tarlac State University — BSIT Technical Service Management",
-  location:   "Philippines 🇵🇭",
-  exploring:  ["WebApp Development", "Machine Learning", "Glassmorphism UI"],
-  funFact:    "I turn caffeine and ideas into code ☕",
-};
-```
-
-Hi! I'm a passionate developer creating innovative and accessible tech experiences. I love learning new technologies, improving my craft, and building projects that matter.
-
-<br>
-
----
-
-### core capabilities
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&theme=dark&perline=5" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=supabase,deno,nodejs,postgres,python&theme=dark&perline=5" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode&theme=dark&perline=5" />
-
-</div>
-
-<br>
-
----
-
-### selected work
-
-| project | description |
-|---------|-------------|
-| 👗 **[AMB Clothing Website](https://github.com/nokirokai)** | eCommerce platform built for today's fashion-forward audience — glassmorphism UI |
-| 🚌 **TaRide Commuting Site** | Transport platform built to give users a fast, simple, and reliable commute experience |
-| 📸 **AMBpix PhotoBooth** | Creative cloud platform focused on visual content, photography, and media |
-| 🏥 **MediFlow Baguio Pharmacy** | Online pharmacy management system that facilitates Baguio's chronic illness patients |
-| 🪑 **Araneta Coliseum Seat System** | Seat management and real-time ticket system that streamlines events |
-| 🅿️ **SM TarPark** | Smart parking management system designed to improve vehicle monitoring |
-
-<br>
-
----
-
-### professional journey
-
-```
-2024 ──── Developer · MediFlow Pharmacy
-          Developed an online pharmacy management system for patients,
-          built the backend, database, and e-prescription features.
-
-2024 ──── Developer · AMB Clothing Website
-          eCommerce platform with a strong community identity,
-          glassmorphism design, and optimized UX.
-
-2024 ──── Developer · Araneta Coliseum Seats
-          Seat management and real-time ticket system
-          that streamlines events at scale.
-```
-
-<br>
-
----
-
-### github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nokirokai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokirokai&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=c9d1d9&langs_count=6" height="160"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=nokirokai&theme=tokyonight&hide_border=true&ring=6366f1&fire=a855f7&currStreakLabel=6366f1" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nokirokai&theme=tokyo-night&hide_border=true&color=6366f1&line=a855f7&point=ffffff" width="100%"/>
-
-</div>
-
-<br>
-
----
-
-### contribute
-
-```bash
-# ready to build something together?
-
-git clone https://github.com/nokirokai/<repo>
-git checkout -b feat/your-idea
-git commit -m "feat: describe what you built"
-git push origin feat/your-idea
-
-# → open a pull request
-```
-
-> follow [conventional commits](https://www.conventionalcommits.org) · keep PRs focused · be kind
-
-<br>
-
----
-
-### connect
-
-<div align="center">
-
-*Ready to discuss your next breakthrough project?*
-
-<br>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/angel.bitangcol.3)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/nokiro.kai)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/angel-bitangcol-2a5786404)
-&nbsp;
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@nokiorkai)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/nokirokai)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&reversal=true" width="100%"/>
-</div>
