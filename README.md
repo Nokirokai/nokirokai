@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+nokirokai+👋;Full-Stack+Web+Developer+💻;TSM+Student+%40+Tarlac+State+University+🎓;Building+things+that+matter+🚀;Always+learning%2C+always+creating+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+nokirokai+%F0%9F%91%8B;Full-Stack+Web+Developer;TSM+Student+%40+Tarlac+State+University;Building+things+that+matter;Always+learning%2C+always+creating)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,15 +24,15 @@
 
 ---
 
-### 💫 about me
+### About Me
 
 ```ts
 const nokirokai = {
   role:       ["Full-Stack Developer", "UI/UX Enthusiast", "Creative Technologist"],
   school:     "Tarlac State University — BSIT Technical Service Management",
-  location:   "Philippines 🇵🇭",
+  location:   "Philippines",
   exploring:  ["WebApp Development", "Machine Learning", "Glassmorphism UI"],
-  funFact:    "I turn caffeine and ideas into code ☕",
+  funFact:    "I turn caffeine and ideas into code",
 };
 ```
 
@@ -42,37 +42,37 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 
 ---
 
-### 🛠️ tech stack
+### Tech Stack
 
-#### cloud & deployment
+#### Cloud & Deployment
 <div align="center">
 <img src="https://skillicons.dev/icons?i=gcp,cloudflare,netlify,vercel&theme=dark&perline=8" />
 </div>
 
 <br>
 
-#### frontend
+#### Frontend
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark&perline=8" />
 </div>
 
 <br>
 
-#### backend & database
+#### Backend & Database
 <div align="center">
 <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,deno&theme=dark&perline=8" />
 </div>
 
 <br>
 
-#### tools & design
+#### Tools & Design
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,git,github,arduino,vscode,photoshop,canva&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,ps,arduino&theme=dark&perline=8" />
 </div>
 
 <br>
 
-#### additional
+#### Additional
 <div align="center">
 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -87,22 +87,42 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 
 ---
 
-### 🚀 selected work
+### Selected Work
 
-| project | description |
+| Project | Description |
 |---------|-------------|
-| 👗 **[AMB Clothing Website](https://github.com/nokirokai)** | eCommerce platform built for today's fashion-forward audience — glassmorphism UI |
-| 🚌 **TaRide Commuting Site** | Transport platform built to give users a fast, simple, and reliable commute experience |
-| 📸 **AMBpix PhotoBooth** | Creative cloud platform focused on visual content, photography, and media |
-| 🏥 **MediFlow Baguio Pharmacy** | Online pharmacy management system that facilitates Baguio's chronic illness patients |
-| 🪑 **Araneta Coliseum Seat System** | Seat management and real-time ticket system that streamlines events |
-| 🅿️ **SM TarPark** | Smart parking management system designed to improve vehicle monitoring |
+| **[AMB Clothing Website](https://github.com/nokirokai)** | eCommerce platform built for today's fashion-forward audience — glassmorphism UI |
+| **TaRide Commuting Site** | Transport platform built to give users a fast, simple, and reliable commute experience |
+| **AMBpix PhotoBooth** | Creative cloud platform focused on visual content, photography, and media |
+| **MediFlow Baguio Pharmacy** | Online pharmacy management system that facilitates Baguio's chronic illness patients |
+| **Araneta Coliseum Seat System** | Seat management and real-time ticket system that streamlines events |
+| **SM TarPark** | Smart parking management system designed to improve vehicle monitoring |
 
 <br>
 
 ---
 
-### 📊 github stats
+### Professional Journey
+
+```
+2024 ──── Developer · MediFlow Pharmacy
+          Developed an online pharmacy management system for patients,
+          built the backend, database, and e-prescription features.
+
+2024 ──── Developer · AMB Clothing Website
+          eCommerce platform with a strong community identity,
+          glassmorphism design, and optimized UX.
+
+2024 ──── Developer · Araneta Coliseum Seats
+          Seat management and real-time ticket system
+          that streamlines events at scale.
+```
+
+<br>
+
+---
+
+### Github Stats
 
 <div align="center">
 
@@ -120,7 +140,7 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 
 ---
 
-### 🌱 contribution graph
+### Contribution Graph
 
 <div align="center">
 
@@ -132,7 +152,7 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 
 ---
 
-### 🤝 contribute
+### Contribute
 
 ```bash
 # ready to build something together?
@@ -142,16 +162,16 @@ git checkout -b feat/your-idea
 git commit -m "feat: describe what you built"
 git push origin feat/your-idea
 
-# → open a pull request
+# open a pull request
 ```
 
-> follow [conventional commits](https://www.conventionalcommits.org) · keep PRs focused · be kind
+> Follow [conventional commits](https://www.conventionalcommits.org) · Keep PRs focused · Be kind
 
 <br>
 
 ---
 
-### 🌐 socials
+### Socials
 
 <div align="center">
 
