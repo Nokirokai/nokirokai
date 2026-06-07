@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f0f0f8,100:e8e8f5&height=200&section=header&text=Angel%20Bitangcol&fontSize=52&fontColor=1a1a2e&fontAlignY=55&desc=nokirokai%20·%20Developer%20·%20Creator&descSize=16&descAlignY=75&descFontColor=6366f1&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=180&section=header&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+nokirokai+👋;Full-Stack+Web+Developer+💻;TSM+Student+%40+Tarlac+State+University+🎓;Building+things+that+matter+🚀;Always+learning%2C+always+creating+✨)](https://git.io/typing-svg)
+
 </div>
 
 <br>
@@ -18,11 +24,19 @@
 
 ---
 
-### elevating visual communication.
+### about me
 
-Hi! I'm **Angel**, a passionate developer creating innovative and accessible tech experiences.
+```ts
+const nokirokai = {
+  role:       ["Full-Stack Developer", "UI/UX Enthusiast", "Creative Technologist"],
+  school:     "Tarlac State University — BSIT Technical Service Management",
+  location:   "Philippines 🇵🇭",
+  exploring:  ["WebApp Development", "Machine Learning", "Glassmorphism UI"],
+  funFact:    "I turn caffeine and ideas into code ☕",
+};
+```
 
-Currently a **Technical Service Management** student at **Tarlac State University** — pursuing WebApp development and exploring Machine Learning. In my free time, I love learning new technologies, improving my coding skills, and exploring different creative projects that matter.
+Hi! I'm a passionate developer creating innovative and accessible tech experiences. I love learning new technologies, improving my craft, and building projects that matter.
 
 <br>
 
@@ -32,15 +46,15 @@ Currently a **Technical Service Management** student at **Tarlac State Universit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&theme=dark&perline=5" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=supabase,deno,nodejs,postgres,python&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=supabase,deno,nodejs,postgres,python&theme=dark&perline=5" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode&theme=dark&perline=5" />
 
 </div>
 
@@ -87,17 +101,17 @@ Currently a **Technical Service Management** student at **Tarlac State Universit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nokirokai&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=fafafa&title_color=6366f1&icon_color=6366f1&text_color=1a1a2e" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nokirokai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokirokai&layout=compact&theme=default&hide_border=true&bg_color=fafafa&title_color=6366f1&text_color=1a1a2e&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokirokai&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=c9d1d9&langs_count=6" height="160"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=nokirokai&theme=default&hide_border=true&background=fafafa&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=1a1a2e&dates=888" />
+<img src="https://streak-stats.demolab.com?user=nokirokai&theme=tokyonight&hide_border=true&ring=6366f1&fire=a855f7&currStreakLabel=6366f1" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nokirokai&theme=minimal&bg_color=fafafa&color=6366f1&line=6366f1&point=1a1a2e&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nokirokai&theme=tokyo-night&hide_border=true&color=6366f1&line=a855f7&point=ffffff" width="100%"/>
 
 </div>
 
@@ -124,7 +138,7 @@ git push origin feat/your-idea
 
 ---
 
-### initiate a dialogue
+### connect
 
 <div align="center">
 
@@ -147,5 +161,5 @@ git push origin feat/your-idea
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8e8f5,100:f0f0f8&height=80&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&reversal=true" width="100%"/>
 </div>
