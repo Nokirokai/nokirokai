@@ -1,22 +1,24 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=180&section=header&animation=fadeIn" width="100%"/>
-</div>
+<!--
+    Hey there! Happy to see you exploring nokirokai's README
+    Feel free to take inspiration!
+    But may I ask you to follow in return? Just a click!
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDD9F2&height=120&section=header" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=800&color=5BA4CF&width=520&lines=Hi+there!+I'm+nokirokai+%F0%9F%91%8B;Full-Stack+Web+Developer;TSM+Student+%40+Tarlac+State+University;Building+things+that+matter;Always+learning%2C+always+creating" alt="Typing SVG"/>
+</a>
+
+<br><br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+nokirokai+%F0%9F%91%8B;Full-Stack+Web+Developer;TSM+Student+%40+Tarlac+State+University;Building+things+that+matter;Always+learning%2C+always+creating)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nokirokai&color=6366f1&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=nokirokai&color=5BA4CF&style=flat-square&label=profile+views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/nokirokai?style=flat-square&color=6366f1&label=followers)
+![GitHub followers](https://img.shields.io/github/followers/nokirokai?style=flat-square&color=5BA4CF&label=followers)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/nokirokai?style=flat-square&color=6366f1&label=total+stars)
+![GitHub stars](https://img.shields.io/github/stars/nokirokai?style=flat-square&color=5BA4CF&label=total+stars)
 
 </div>
 
@@ -45,35 +47,19 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 ### Tech Stack
 
 #### Cloud & Deployment
-<div align="center">
-<img src="https://skillicons.dev/icons?i=gcp,cloudflare,netlify,vercel&theme=dark&perline=8" />
-</div>
-
-<br>
+[![Cloud](https://skillicons.dev/icons?i=gcp,cloudflare,netlify,vercel)](https://skillicons.dev)
 
 #### Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark&perline=8" />
-</div>
-
-<br>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css)](https://skillicons.dev)
 
 #### Backend & Database
-<div align="center">
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,deno&theme=dark&perline=8" />
-</div>
-
-<br>
+[![Backend](https://skillicons.dev/icons?i=supabase,postgres,nodejs,deno)](https://skillicons.dev)
 
 #### Tools & Design
-<div align="center">
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,ps,arduino&theme=dark&perline=8" />
-</div>
-
-<br>
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,ps,arduino)](https://skillicons.dev)
 
 #### Additional
-<div align="center">
+<div>
 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -126,25 +112,17 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nokirokai&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=6366f1&icon_color=a855f7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nokirokai&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=5BA4CF&icon_color=5BA4CF&text_color=1a1a2e&bg_color=f0f7ff" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokirokai&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=6366f1&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokirokai&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=5BA4CF&text_color=1a1a2e&bg_color=f0f7ff&langs_count=6" height="165"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=nokirokai&theme=dark&hide_border=false&ring=6366f1&fire=a855f7&currStreakLabel=6366f1" />
+<img src="https://streak-stats.demolab.com?user=nokirokai&theme=default&hide_border=false&background=f0f7ff&ring=5BA4CF&fire=5BA4CF&currStreakLabel=5BA4CF&sideLabels=1a1a2e&dates=888" />
 
-</div>
+<br><br>
 
-<br>
-
----
-
-### Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nokirokai&theme=github-compact&hide_border=false&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d35333" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nokirokai&theme=github-compact&hide_border=false&color=39d353&line=39d353&point=1a1a2e&area=true&area_color=39d35333" width="100%"/>
 
 </div>
 
@@ -173,22 +151,20 @@ git push origin feat/your-idea
 
 ### Socials
 
-<div align="center">
+<div>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/angel.bitangcol.3)
-&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/nokiro.kai)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/angel-bitangcol-2a5786404)
-&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@nokiorkai)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/nokirokai)
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&reversal=true" width="100%"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDD9F2&height=120&section=footer" alt="footer"/>
+
+<!--
+    Thanks for being my guest <3
+-->
