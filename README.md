@@ -4,12 +4,13 @@
     But may I ask you to follow in return? Just a click!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDD9F2&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BDD9F2&height=120&section=header" alt="header"/>
 
+<div align="center">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&style=center&duration=3000&pause=800&color=5BA4CF&width=520&lines=Hi+there!+I'm+nokirokai+%F0%9F%91%8B;Junior+Web+Developer;TSM+Student+%40+Tarlac+State+University;Building+things+that+matter;Always+learning%2C+always+creating" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=800&color=5BA4CF&center=true&vCenter=true&width=520&lines=Hi+there!+I'm+nokirokai+%F0%9F%91%8B;Junior+Web+Developer;TSM+Student+%40+Tarlac+State+University;Building+things+that+matter;Always+learning%2C+always+creating" alt="Typing SVG"/>
 </a>
-
+</div>
 <br><br>
 
 <div align="center">
