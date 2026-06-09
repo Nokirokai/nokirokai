@@ -31,10 +31,10 @@
 
 ```ts
 const nokirokai = {
-  role:       ["Full-Stack Developer", "UI/UX Enthusiast", "Creative Technologist"],
+  role:       ["Junior Web Developer", "UI/UX Enthusiast", "Creative Technologist"],
   school:     "Tarlac State University — BSIT Technical Service Management",
   location:   "Philippines",
-  exploring:  ["WebApp Development", "Machine Learning", "Glassmorphism UI"],
+  exploring:  ["WebApp Development", "Machine Learning"],
   funFact:    "I turn caffeine and ideas into code",
 };
 ```
@@ -78,7 +78,7 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 
 | Project | Description |
 |---------|-------------|
-| **[AMB Clothing Website](https://github.com/nokirokai)** | eCommerce platform built for today's fashion-forward audience — glassmorphism UI |
+| **AMB Clothing Website** | eCommerce platform built for today's fashion-forward audience — glassmorphism UI |
 | **TaRide Commuting Site** | Transport platform built to give users a fast, simple, and reliable commute experience |
 | **AMBpix PhotoBooth** | Creative cloud platform focused on visual content, photography, and media |
 | **MediFlow Baguio Pharmacy** | Online pharmacy management system that facilitates Baguio's chronic illness patients |
