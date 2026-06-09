@@ -113,8 +113,7 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=nokirokai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokirokai&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=5BA4CF&text_color=1a1a2e&bg_color=f0f7ff&langs_count=6" height="165"/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nokirokai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br><br>
 
