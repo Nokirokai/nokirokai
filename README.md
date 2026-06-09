@@ -91,15 +91,15 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 ### Professional Journey
 
 ```
-2024 ──── Developer · MediFlow Pharmacy
+2026 ──── Developer · MediFlow Pharmacy
           Developed an online pharmacy management system for patients,
           built the backend, database, and e-prescription features.
 
-2024 ──── Developer · AMB Clothing Website
+2026 ──── Developer · AMB Clothing Website
           eCommerce platform with a strong community identity,
           glassmorphism design, and optimized UX.
 
-2024 ──── Developer · Araneta Coliseum Seats
+2026 ──── Developer · Araneta Coliseum Seats
           Seat management and real-time ticket system
           that streamlines events at scale.
 ```
@@ -112,7 +112,7 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nokirokai&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=5BA4CF&icon_color=5BA4CF&text_color=1a1a2e&bg_color=f0f7ff" height="165"/>
+![](https://github-readme-stats.shion.dev/api?username=nokirokai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokirokai&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=5BA4CF&text_color=1a1a2e&bg_color=f0f7ff&langs_count=6" height="165"/>
 
