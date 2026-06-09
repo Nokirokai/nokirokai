@@ -7,7 +7,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDD9F2&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=800&color=5BA4CF&width=520&lines=Hi+there!+I'm+nokirokai+%F0%9F%91%8B;Full-Stack+Web+Developer;TSM+Student+%40+Tarlac+State+University;Building+things+that+matter;Always+learning%2C+always+creating" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&style=center&duration=3000&pause=800&color=5BA4CF&width=520&lines=Hi+there!+I'm+nokirokai+%F0%9F%91%8B;Junior+Web+Developer;TSM+Student+%40+Tarlac+State+University;Building+things+that+matter;Always+learning%2C+always+creating" alt="Typing SVG"/>
 </a>
 
 <br><br>
@@ -112,11 +112,10 @@ Hi! I'm a passionate developer creating innovative and accessible tech experienc
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=nokirokai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=nokirokai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nokirokai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br><br>
-
+<br>
 <img src="https://streak-stats.demolab.com?user=nokirokai&theme=default&hide_border=false&background=f0f7ff&ring=5BA4CF&fire=5BA4CF&currStreakLabel=5BA4CF&sideLabels=1a1a2e&dates=888" />
 
 <br><br>
